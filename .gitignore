@@ -20,3 +20,6 @@ __pycache__/
 .playwright-mcp/
 musinsa-sweep-rest.json
 .claude/settings.local.json
+# 범용 수집기로 대체된 구버전 — 디스크에는 두되 추적하지 않는다
+data/.tools/snap_ranking.py
+data/.tools/snap_ranking_29cm_shoes.py
